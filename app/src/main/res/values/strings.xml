@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">EmailWeb</string>
     <string name="email">email Text</string>
+    <string name="name_text">Name Text</string>
 </resources>
